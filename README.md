@@ -24,7 +24,7 @@ This lab was one of the core things that helped me secure the CCNA, so here are 
 
 ## Topology
 
-![[Pasted image 20260819091503.png]]
+![topology.png](attachments/topology.png)
 
 **Access switch uplinks:** every ASW uses `G0/1` → DSW-x1 and `G0/2` → DSW-x2.
 **Access switch host port:** every ASW uses `F0/1`. ASW-A1 additionally uses `F0/2` for WLC1.
